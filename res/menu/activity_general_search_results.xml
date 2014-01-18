@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <!-- 
+    <item 
+      android:id="@+id/browseOnPhone"
+      android:title="@string/browseOnPhone" 
+      android:icon="@drawable/winecask"
+      android:textSize="8sp"
+      />
+    
+     
+     <item 
+      android:id="@+id/sendEmail"
+      android:title="@string/sendEmail"
+      android:icon="@drawable/logo"
+      android:textSize="8sp"
+      />
+    
+    <item 
+      android:id="@+id/sendText"
+      android:title="@string/sendText" 
+      android:icon="@drawable/winecask"
+      android:textSize="8sp"
+      />
+ -->
+ 
+     <item
+            android:id="@+id/menu_item_timeline"
+            android:showAsAction="ifRoom"
+            android:title="Save to Timeline" />
+
+    
+  </menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Names of things -->
+    <string name="app_name">Glass Sommelier</string>
+
+    <!-- Trigger strings -->
+    <string name="glass_voice_trigger">Find Wine</string>
+    <string name="glass_voice_prompt">Tell me what you\'d like to find. Try saying \'under \(number\) dollars\' to set a maximum price.</string>
+
+    <!-- Menu Items -->
+    <string name="mainActivityText">What can I help you find?</string>
+    <string name="clearCards">Clear all cards</string>
+    <string name="search">Search for Wine</string>
+    <string name="concierge">Concierge</string>
+    <string name="sendText">Share By Text</string>
+    <string name="sendEmail">Share By Email</string>
+    <string name="browseOnPhone">Browse on Phone</string>
+
+    <!-- Misc/junk -->
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">Loading...</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="main_tile_desc">Take the guesswork out of wine selection</string>
+    <string name="title_activity_general_search_results">GeneralSearchResultsActivity</string>
+    <string name="title_activity_store_info">StoreInfoActivity</string>
+
+</resources>
